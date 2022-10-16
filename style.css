@@ -10,7 +10,7 @@ body {
   background:linear-gradient(120deg, var(--main-col), var(--sub-col));
   margin: 0;
   padding: 0;
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Comfortaa';
   height: 100vh;
   width: 100vw;
   display: flex;
